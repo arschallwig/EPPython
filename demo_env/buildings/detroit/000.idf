@@ -23197,5 +23197,7 @@
 
   Output:Variable,*,Zone Air Relative Humidity,Daily;
 
+  Output:Variable,*,Zone Air Relative Humidity,Hourly;
+
   Output:Variable,*,Site Outdoor Air Drybulb Temperature,Monthly;
 

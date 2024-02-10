@@ -42,7 +42,7 @@ if not epw_path:
     print('Error: epw file not found')
 
 # Set output path
-output_path = 'output/' + city + '/' + climate + '/' + year + '/' + city + id 
+output_path = 'output/' + city + '/' + climate + '/' + year + '/' + city + id # run in arschall/<top level dir> so I run arschall/EPpy/ ... ls here has weather building output
 
 
 # Prepare api
